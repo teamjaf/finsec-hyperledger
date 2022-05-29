@@ -4,6 +4,14 @@ Docker images
 
 
 
+File System
+
+![6 - File System](https://user-images.githubusercontent.com/65031312/170873126-5630eeeb-d878-40a0-97eb-70d9087b9c62.png)
+
+
+
+
+
 Creating 3 "organizations" with an "orderer"
 
 ![1- four organizations](https://user-images.githubusercontent.com/65031312/170870137-02c0277b-030e-4e54-ab55-e496e0358bb1.png)
