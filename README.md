@@ -35,6 +35,6 @@
 ![5 - Services are up and running](https://user-images.githubusercontent.com/65031312/170870272-6f7d0add-5084-4968-8dc0-b3dc7636f98a.png)
 
 
-### joining endorser and orderer
+### Joining endorser (Organization) and orderer
 
 ![5- Created channel with joining the repo ](https://user-images.githubusercontent.com/65031312/170870337-89b70481-a27a-43f3-907f-0a366ed7aeed.png)
