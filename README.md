@@ -4,7 +4,7 @@ Docker images
 
 
 
-Creating 4 "organizations" with an "orderer"
+Creating 3 "organizations" with an "orderer"
 
 ![1- four organizations](https://user-images.githubusercontent.com/65031312/170870137-02c0277b-030e-4e54-ab55-e496e0358bb1.png)
 
